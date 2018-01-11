@@ -1,0 +1,6 @@
+[11-Nov-2017 00:45:34 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/thegirls/public_html/entertainment/wp-includes/pluggable.php on line 1192
+[14-Nov-2017 13:31:27 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/thegirls/public_html/entertainment/wp-includes/pluggable.php on line 1192
+[06-Dec-2017 20:02:58 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/thegirls/public_html/entertainment/wp-includes/pluggable.php on line 1192
+[07-Dec-2017 01:36:48 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/thegirls/public_html/entertainment/wp-includes/pluggable.php on line 1192
+[04-Jan-2018 16:43:24 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/thegirls/public_html/entertainment/wp-includes/pluggable.php on line 1192
+[09-Jan-2018 14:44:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/thegirls/public_html/entertainment/wp-includes/pluggable.php on line 1192

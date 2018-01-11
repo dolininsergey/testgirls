@@ -1,0 +1,8 @@
+[02-Nov-2017 01:41:21 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60
+[02-Nov-2017 01:41:49 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60
+[06-Nov-2017 00:23:25 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60
+[07-Nov-2017 02:23:53 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60
+[07-Nov-2017 05:35:22 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60
+[07-Nov-2017 05:35:25 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60
+[19-Nov-2017 10:58:35 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60
+[25-Nov-2017 15:55:39 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/thegirls/public_html/wp-content/plugins/hello.php on line 60

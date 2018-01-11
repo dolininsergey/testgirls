@@ -1,0 +1,1 @@
+[25-Nov-2017 23:34:25 America/New_York] PHP Fatal error:  Call to undefined function plugin_basename() in /home/thegirls/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
