@@ -1,0 +1,73 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.her-story-section-wrapper-b .parallax {
+	background-attachment: scroll !important;
+  	background-position: center !important;
+  	background-size: cover !important;
+    padding-top: 5% !important;
+    padding-bottom: 3% !important;
+}
+.her-story-section-wrapper-b .hs-slider-item-image {
+	display: flex !important;
+  	justify-content: center !important;
+  	margin-bottom: 25px !important;
+  	padding-top: 30px !important;
+}
+.her-story-section-wrapper-b .hs-slider-item-image a img {
+	border-radius: 10em !important;
+  	width: 115px !important;
+    height: auto !important;
+}
+.her-story-section-wrapper-b .hs-slider-item-text {
+    color: #fff !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+  	margin-bottom: 15px !important;
+}
+.her-story-section-wrapper-b .hs-slider-item-header {
+	text-align: center !important;
+    color: #fff !important;
+    font-size: 18px !important;
+    padding-bottom: 30px;
+}
+.her-story-section-wrapper-b #her_story_slider {
+    background: rgba(152, 152, 152, 0.25) !important; /* rgba(0, 120, 201, 0.3) */
+}
+.her-story-section-wrapper-b .hs-slider-item {
+	width: 60% !important;
+}
+.her-story-section-wrapper-b .sa_hover_container {
+	display: flex !important;
+    justify-content: center !important;
+  	padding: 0 !important;
+  	align-items: center !important;
+}
+.her-story-section-wrapper-b .white .sa_owl_theme .owl-nav .owl-prev {
+  	background: url(../wp-content/themes/nonus/assets/img/icon_prev.png) !important;
+	background-size: cover !important;
+  	background-position: center !important;
+  	outline: none !important;
+}
+.her-story-section-wrapper-b .sa_owl_theme .owl-nav .owl-prev {
+	left: 0 !important;
+}
+.her-story-section-wrapper-b .white .sa_owl_theme .owl-nav .owl-next {
+  	background: url(../wp-content/themes/nonus/assets/img/icon_next.png) !important;
+	background-size: cover !important;
+  	background-position: center !important;
+  	outline: none !important;
+}
+.her-story-section-wrapper-b .sa_owl_theme .owl-nav .owl-next {
+	right: 0 !important;
+}
+.her-story-section-wrapper-b h1 {
+	display: flex !important;
+  	padding-left: 10% !important;
+    margin-bottom: 30px !important;
+}
+.her-story-section-wrapper-b h1 > p {
+	color: #fff !important;
+  	background: #FD2738 !important;
+    padding: 0px 5px 0px 5px !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

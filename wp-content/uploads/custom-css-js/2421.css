@@ -1,0 +1,35 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.philosophy-section-wrapper-b .row-fluid {
+	padding: 0 !important;
+}
+.philos-header-row {
+  	padding: 0 !important;
+}  
+.philosophy-section-wrapper-b h1 {
+	text-align: left;
+  	background-color: #FD2738;
+  	font-size: 30px !important;
+  	padding: 7px 7px !important;
+}
+.philos-header-row .container .row-fluid {
+	display: flex;
+}
+.philos-row {
+	padding: 0 !important;
+  	margin-top: 25px;
+}
+.philos-row .container .row-fluid {
+	display: flex;
+  	flex-wrap: wrap;
+}
+.philos-row h3 {
+	text-transform: none;
+  	margin-bottom: 30px;
+     text-align: left;
+}
+.philos-text {
+	text-align: left;
+  	font-weight: 600 !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

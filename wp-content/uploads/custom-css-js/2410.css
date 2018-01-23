@@ -1,0 +1,226 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.page-id-2404 nav, .page-id-2404 #boxedWrapper .breadcrumbs, .page-id-2404 footer .container {
+  display: none;
+}
+.page-id-2404 .opening-header, .page-id-2404 .op-buttons-row {
+  margin-top: 20px;
+}
+.page-id-2404 .opening-header img {
+  width: 230px; 
+    height: 93px;
+}
+.page-id-2404 .op-buttons-row .row-fluid {
+  display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.page-id-2404 a:link {
+  display: inline-block;
+  border: none;
+  color: #fff !important;
+  text-decoration: none;
+  background-color: #FD2738;
+  padding: 20px 45px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  text-align: center;
+  position: relative;
+  outline: none;
+  transition: background-color .1s ease;
+  cursor: pointer;
+  }
+.page-id-2404 a:hover {
+  text-decoration: none !important;
+    color: #fff !important;
+}
+.page-id-2404 .su-button-style-default span {
+  border: none !important;
+    font-size: 20px !important;
+}
+.page-id-2404 #op-button-1 {
+    margin-right: 20px;
+}
+.page-id-2404 footer {
+  padding: 0px;
+    margin-top: -80px;
+}
+.page-id-2404 footer > h4 {
+  padding: 20px 0 20px;
+}
+.page-id-2404 section {
+  padding: 0px !important;
+}
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+.page-id-2404 #op-button-1 {
+    margin-bottom: 20px;
+}
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

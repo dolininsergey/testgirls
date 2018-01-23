@@ -1,0 +1,36 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.workshops-section-wrapper-b {
+	background: #000 !important;
+    padding-top: 6% !important;
+    padding-bottom: 5% !important;
+}
+.workshops-section-wrapper-b .workshops-header-row h1 {
+	background: #FD2738 !important;
+    display: flex !important;
+    padding: 0 !important;
+    justify-content: center !important;
+}
+.workshops-section-wrapper-b .workshops-header-row .workshops-underheader {
+	color: #fff !important;
+  	font-size: 19px !important;
+  	border-bottom: solid 2px #FFC85E;
+}
+.workshops-section-wrapper-b .workshops-item-row p {
+	text-align: left !important;
+  	color: #fff !important;
+  	font-weight: 600;
+    font-size: 14px;
+}
+.workshops-section-wrapper-b .workshops-item-row .workshop-item-header {
+    color: #FD2738 !important;
+  	font-size: 16px !important;
+  	font-weight: 700;
+}
+.page-id-2435 .main-content-container {
+	margin-left: 10% !important;
+}
+.workshops-section-wrapper-b footer {
+	display: none !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

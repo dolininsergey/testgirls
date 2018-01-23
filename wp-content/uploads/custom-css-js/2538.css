@@ -1,0 +1,40 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.page-id-2536 .breadcrumbs {
+  display: none !important; 
+}
+.page-id-2536 .girls-form-row {
+  padding-top: 8% !important;
+} 
+.page-id-2536 .girls-sign-up-form {
+  width: 60% !important;
+}
+.page-id-2536 form input[type="text"] {
+  outline: none !important;
+    border: none !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+} 
+.page-id-2536 form input[type="submit"] {
+  background: #FD2738 !important;
+} 
+.page-id-2536 .textwidget {
+  display: flex !important;
+    justify-content: center !important;
+}
+.page-id-2536 .esu-form-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.page-id-2536 footer {
+  padding-top: 0 !important;
+}
+.page-id-2536 #text-8 {
+  margin: 0 !important;
+}
+.page-id-2536 .main-content-container {
+    padding-top: 8%;
+}</style>
+<!-- end Simple Custom CSS and JS -->

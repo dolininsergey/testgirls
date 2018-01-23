@@ -1,0 +1,38 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,800');
+.mentor-section-wrapper-b {
+	background-color: #fff !important;
+    padding-top: 1% !important;
+    padding-bottom: 4% !important;
+}
+.mentor-section-wrapper-b p {
+	text-align: left !important;
+  	color: #000 !important;
+  	font-family: 'Montserrat', sans-serif !important;
+  	font-weight: 600 !important;
+}
+.mentor-section-wrapper-b h1 {
+	background-color: #FFC85E;
+  	display: flex;
+    justify-content: center;
+    font-size: 30px !important;
+    padding: 0 !important;
+}
+.mentor-section-wrapper-b .mentor-header-row {
+	padding-bottom: 0 !important;
+}
+.mentor-section-wrapper-b .main-mentor-row {
+	padding: 0 !important;
+}
+.mentor-section-wrapper-b .mentor-name, .mentor-section-wrapper-b .mentor-occupation {
+	margin-top: 0 !important;
+}
+.mentor-section-wrapper-b .mentor-third-column .inner {
+	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+ 	align-items: center;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
