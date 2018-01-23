@@ -1,0 +1,18 @@
+/*
+   easy-styles.css
+   easy-sign-up
+   
+   Created by Rew Rixom on 2011-03-29.
+*/
+#esu_like_plug a span {
+  font-size: 150%;color: #BAB030;text-decoration: none;
+}
+.help-tab-content ul.easy-rss li {
+    list-style-type: none;
+    margin-left: 0px;
+}
+.help-tab-content ul.easy-rss li a {
+	font-weight: bold;
+}esu_latest_news
+
+/*EOF*/

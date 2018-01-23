@@ -1,0 +1,22 @@
+/*
+   esu-styles.css
+   easy-sign-up
+   Created by Rew Rixom on February 7, 2013
+		ID's have underscores "_"
+		Classes have dashes "-"
+*/
+/* New with version 3 */
+/*Easy sign up short code form div */
+div.esu-form-div{ display: table; }
+div.esu-form-div ul{ list-style: none; margin:0;}
+div.esu-form-div ul li { margin: auto; padding:4px;display:block;}
+div.esu-form-div input[type=image]{ border: none;background: transparent;box-shadow:none; }
+div.esu-form-div input[type=image],div.esu-form-div input[type=submit]{ cursor: pointer;  }
+.esu-honey { display: none; }
+#esu_err {
+  list-style: none; padding: 10px;
+  line-height: normal;  z-index: 100000;  margin: 0px;
+}
+#esu_err ul { margin: auto; display: table; list-style: none; }
+#esu_err ul li { padding-bottom: 2px; }
+div.esu-form-div label.esu-default, .esu-hide{position:absolute!important;top:-9999px!important;left:-9999px!important} br.esu-left{clear:left;}
