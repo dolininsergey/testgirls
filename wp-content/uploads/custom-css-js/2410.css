@@ -1,22 +1,22 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
-.page-id-2404 nav, .page-id-2404 #boxedWrapper .breadcrumbs, .page-id-2404 footer .container {
+.home nav, .home #boxedWrapper .breadcrumbs, .home footer .container {
   display: none;
 }
-.page-id-2404 .opening-header, .page-id-2404 .op-buttons-row {
+.home .opening-header, .home .op-buttons-row {
   margin-top: 20px;
 }
-.page-id-2404 .opening-header img {
+.home .opening-header img {
   width: 230px; 
     height: 93px;
 }
-.page-id-2404 .op-buttons-row .row-fluid {
+.home .op-buttons-row .row-fluid {
   display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.page-id-2404 a:link {
+.home a:link {
   display: inline-block;
   border: none;
   color: #fff !important;
@@ -32,25 +32,25 @@
   transition: background-color .1s ease;
   cursor: pointer;
   }
-.page-id-2404 a:hover {
+.home a:hover {
   text-decoration: none !important;
     color: #fff !important;
 }
-.page-id-2404 .su-button-style-default span {
+.home .su-button-style-default span {
   border: none !important;
     font-size: 20px !important;
 }
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-right: 20px;
 }
-.page-id-2404 footer {
+.home footer {
   padding: 0px;
     margin-top: -80px;
 }
-.page-id-2404 footer > h4 {
+.home footer > h4 {
   padding: 20px 0 20px;
 }
-.page-id-2404 section {
+.home section {
   padding: 0px !important;
 }
 /* ----------- iPhone 4 and 4S ----------- */
@@ -60,7 +60,7 @@
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -71,7 +71,7 @@
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
-    .page-id-2404 #op-button-1 {
+    .home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -82,7 +82,7 @@
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -94,7 +94,7 @@
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -105,7 +105,7 @@
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
-    .page-id-2404 #op-button-1 {
+    .home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -116,7 +116,7 @@
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -128,7 +128,7 @@
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -139,7 +139,7 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -150,7 +150,7 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -162,7 +162,7 @@
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -173,7 +173,7 @@
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -184,7 +184,7 @@
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -196,7 +196,7 @@
   and (min-device-width: 375px) 
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -207,7 +207,7 @@
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
@@ -218,7 +218,7 @@
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
-.page-id-2404 #op-button-1 {
+.home #op-button-1 {
     margin-bottom: 20px;
 }
 }
