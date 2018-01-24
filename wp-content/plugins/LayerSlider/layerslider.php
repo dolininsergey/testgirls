@@ -1495,11 +1495,11 @@ function layerslider_convert_urls($arr) {
 
 class LayerSlider_Widget extends WP_Widget {
 
-	function LayerSlider_Widget() {
+	function __construct() {
 
 		$widget_ops = array( 'classname' => 'layerslider_widget', 'description' => __('Insert a slider with LayerSlider WP Widget', 'LayerSlider') );
 		$control_ops = array( 'id_base' => 'layerslider_widget' );
-		$this->WP_Widget( 'layerslider_widget', __('LayerSlider WP Widget', 'LayerSlider'), $widget_ops, $control_ops );
+		parent::__construct( 'layerslider_widget', __('LayerSlider WP Widget', 'LayerSlider'), $widget_ops, $control_ops );
 	}
 
 	function widget( $args, $instance ) {
