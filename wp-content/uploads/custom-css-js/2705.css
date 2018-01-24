@@ -1,0 +1,107 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.page-id-2691 .breadcrumbs {
+	display: none !important;
+}
+.page-id-2691 .stayconnected-section-wrapper {
+  background-color: #000 !important;  
+}
+.page-id-2691 .stayconnected-section-wrapper h1 {
+  display: flex !important;
+}
+.page-id-2691 .stayconnected-section-wrapper .post-column-2-3 {
+  margin-right: 0 !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #wpsp-2690 {
+  margin-top: 0 !important;
+    padding-top: 0 !important;
+    background: #0D0D0D !important;
+    border-top: solid 5px #111111 !important;
+    padding: 10px 70px 50px 30px !important;
+    margin-right: 50px !important;
+}
+.page-id-2691 .stayconnected-section-wrapper h1 p {
+  background: #FD2738 !important;
+    color: #fff !important;
+    padding: 0px 10px 0px 10px !important;
+}
+.page-id-2691 .stayconnected-section-wrapper .post-meta {
+  display: none !important;
+}
+.page-id-2691 .stayconnected-section-wrapper .wp-show-posts-entry-title {
+  text-transform: none !important;
+    font-family: 'Bitter', serif !important;
+    font-size: 1.813em !important;
+    text-align: left !important;
+    font-weight: normal !important;
+    letter-spacing: normal !important;
+}
+.page-id-2691 .stayconnected-section-wrapper a.wp-show-posts-read-more {
+    /*background-color: #FEC75A !important;
+    color: #000 !important; */
+    background-color: #FD2738 !important;
+    color: #fff !important;
+    margin-top: 20px !important;
+    padding: 15px 50px !important;
+    font-size: 0.9em !important;
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+    border: none !important;
+}
+.page-id-2691 .stayconnected-section-wrapper a.wp-show-posts-read-more:hover {
+  text-decoration: none !important;
+    opacity: 0.9 !important;
+}
+.page-id-2691 .stayconnected-section-wrapper .wp-show-posts-entry-title a {
+  color: #fff !important;
+}
+.page-id-2691 .stayconnected-section-wrapper .wp-show-posts-entry-title a:hover {
+  text-decoration: none !important;
+    color: #fec75a !important;
+}
+.page-id-2691 .stayconnected-section-wrapper .widgettitle  {
+  font-weight: 800 !important;
+    font-size: 24px !important;
+    border-bottom: solid 3px #FFC85E !important;
+    padding-bottom: 5px !important;
+    margin-bottom: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #recent-posts-8 li {
+  list-style-type: none !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    line-height: 30px !important;
+    border-bottom: dashed 1px #808080 !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #recent-posts-8 li a {
+  color: #BEBEBE !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #recent-posts-8 li a:hover {
+  color: #fff !important;
+    text-decoration: none !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #recent-posts-8 {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #recent-posts-8 li:last-child {
+  border-bottom: none !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #recent-posts-8 ul {
+  margin: 0 !important;
+    background: #0D0D0D !important;
+    padding: 0px 15px 20px 15px !important;
+    width: 80% !important;
+}
+.page-id-2691 .stayconnected-section-wrapper #recent-posts-8 > li > ul {
+  background: #0D0D0D;
+    padding: 20px 15px 30px 15px;
+    width: 75% !important;
+  
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

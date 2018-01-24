@@ -6,6 +6,9 @@
 .stayconnected-section-wrapper h1 {
 	display: flex !important;
 }
+.stayconnected-section-wrapper .post-column-2-3 {
+	margin-right: 0 !important;
+}
 .stayconnected-section-wrapper #wpsp-2690 {
 	margin-top: 0 !important;
   	padding-top: 0 !important;
@@ -17,7 +20,7 @@
 .stayconnected-section-wrapper h1 p {
 	background: #FD2738 !important;
   	color: #fff !important;
-  	padding: 0px 5px 0px 5px !important;
+  	padding: 0px 10px 0px 10px !important;
 }
 .stayconnected-section-wrapper .post-meta {
 	display: none !important;
