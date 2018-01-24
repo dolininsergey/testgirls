@@ -1,0 +1,25 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.video-section-wrapper {
+	background: #000 !important;
+}
+.video-section-wrapper h1 {
+	display: flex !important;
+  	justify-content: center !important;
+  	padding-top: 0 !important;
+  	margin-top: 0 !important;
+}
+.video-section-wrapper h1 > p {
+	background: #FD2738 !important;
+    padding: 0px 5px 0px 5px !important;
+  	color: #fff !important;
+}
+.video-section-wrapper .wyg_css, .video-section-wrapper pre {
+	background: #000 !important;
+}
+.video-section-wrapper .wyg_nolightbox .wp_youtube_gallery_post {
+	border: none !important;
+  	margin-bottom: 0 !important;
+  	margin-top: 0 !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
