@@ -1,0 +1,18 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media screen and (max-width: 768px) {
+  .stayconnected-section-wrapper #wpsp-2690 { margin-right: 0 !important; }
+   }
+@media (max-width: 385px) {
+  .noBackgroundMobile .wpcf7-submit, .btn, .noBackgroundMobile {
+  	margin-bottom: 20px !important;
+  }
+}
+@media (max-width: 767px) {
+  .mentor-section-wrapper-b .container .row-fluid [class*="span"] img {
+  	margin: unset !important;
+    display: unset !important;   
+  }
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

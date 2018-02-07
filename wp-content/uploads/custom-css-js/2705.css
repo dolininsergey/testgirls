@@ -18,7 +18,7 @@
     background: #0D0D0D !important;
     border-top: solid 5px #111111 !important;
     padding: 10px 70px 50px 30px !important;
-    margin-right: 50px !important;
+    /*margin-right: 50px;*/
 }
 .page-id-2691 .stayconnected-section-wrapper h1 p {
   background: #FD2738 !important;
@@ -101,7 +101,10 @@
   background: #0D0D0D;
     padding: 20px 15px 30px 15px;
     width: 75% !important;
-  
 }
-</style>
+@media (max-width: 768px) {
+  .page-id-2691 .stayconnected-section-wrapper #wpsp-2690 {
+  	margin-right: 0 !important;
+  }
+}  </style>
 <!-- end Simple Custom CSS and JS -->
